@@ -1,12 +1,12 @@
 JADS
 ====
 
-Java Advanced Data Structures
+*Java Advanced Data Structures*
 
 Ideja
 -----
 U programski jezik Javu ugrađene su neke od naprednih struktura podataka, kao 
-što su Stack, TreeSet, LinkedList i slično, no neke specifičnije strukture ipak
+što su `Stack`, `TreeSet`, `LinkedList` i slično, no neke specifičnije strukture ipak
 nisu zastupljene. Stoga je cilj ove biblioteke učiniti i druge napredne strukture 
 dostupne svim Java programera. U biblioteku će također vrlo vjerojatno biti 
 uključena i mogućnost grafičkog prikaza funkcionalnosti svake, ili barem nekih 
