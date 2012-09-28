@@ -1,6 +1,5 @@
 JADS
 ====
-
 *Java Advanced Data Structures*
 
 Ideja
