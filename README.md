@@ -18,4 +18,5 @@ Ova biblioteka implementirat će sljedeće strukture podataka:
   - Tournament stablo (Segment tree)
   - Populacijska struktura
   - RMQ struktura
- S vremenom će se popis struktura vjerojatno i povećati.
+
+S vremenom će se popis struktura vjerojatno i povećati.
